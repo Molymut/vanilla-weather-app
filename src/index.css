@@ -1,0 +1,15 @@
+body {
+  background-color: green;
+  font-family: "Hedvig Letters Serif", serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
+}
+.vanilla-app {
+  background: white;
+  max-width: 500px;
+  margin: 30px auto;
+  padding: 45px;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 14px;
+}
