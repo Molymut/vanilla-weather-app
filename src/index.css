@@ -22,8 +22,9 @@ body {
 }
 
 .weather-icon {
-  font-size: 44px;
+  font-size: 32px;
   margin-top: 22px;
+  margin-left: 10px;
 }
 .weather-temp {
   font-size: 60px;
@@ -68,6 +69,10 @@ main {
 .weather-data {
   display: flex;
   justify-content: space-between;
+}
+
+.weather-temperature-container {
+  display: flex;
 }
 
 footer {
