@@ -1,5 +1,5 @@
 body {
-  background-color: whitesmoke;
+  background-color: #f9f7fe;
   font-family: "Hedvig Letters Serif", serif;
   font-family: "Inter", sans-serif;
   font-family: "Lato", sans-serif;
@@ -18,7 +18,7 @@ body {
 }
 
 .details strong {
-  color: red;
+  color: #f65282;
 }
 
 .weather-icon {
